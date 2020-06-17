@@ -1,2 +1,2 @@
-# estudoJavascript
-Introdução ao Javascript
+# ECMAScript6
+Praticando as principais features do ECMAScript 6
